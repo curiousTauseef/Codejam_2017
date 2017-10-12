@@ -1,24 +1,22 @@
 # Codejam_2017
-# Solution for Oversized Pancake Flipper in C++
+# My Solution for Qualification Round 2017
 
 
-#Steps to run compile this application: 
+# Steps to run compile and run this application:
+
+# Problem A. Oversized Pancake Flipper  
 
 $ g++ oversized_Pancake_Flipper.cpp -o oversized_Pancake_Flipper
 
-
-#Step to run this application
-
-#for solving small input sample
-
 $ ./oversized_Pancake_Flipper < A-small-practice.in > A-small-practice.out
-
-#for solving large input sample
-
 $ ./oversized_Pancake_Flipper < A-large-practice.in > A-large-practice.out
 
 
-# your output files are A-small-practice.out and A-large-practice.out
+# Problem B. Tidy Numbers
 
+$ g++ tidy_number.cpp -o tidy_number
+
+$ ./tidy_number < B-small-practice.in > B-small-practice.out
+$ ./tidy_number < B-large-practice.in > B-large-practice.out
 
 
